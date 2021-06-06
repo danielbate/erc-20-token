@@ -1,5 +1,5 @@
-# ERC-20 Token Sample
+# ERC-20 Token
 
-Original sample was created by Juan Cruz Martinez 2020.
+Boilerplate code was created by Juan Cruz Martinez 2020.
 
 MIT License.
